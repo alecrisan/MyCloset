@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1001,
+        "name": "Skirt",
+        "imageName": "skirtbabyblue",
+        "description": "Jeans, baby blue",
+        "size": "S"
+    },
+    {
+        "id": 1002,
+        "name": "Dress",
+        "imageName": "purpledress",
+        "description": "Flowers print, purple",
+        "size": "XS"
+    },
+    {
+        "id": 1003,
+        "name": "T-Shirt",
+        "imageName": "redtshirthoney",
+        "description": "Red, HONEY",
+        "size": "M"
+    }
+]
